@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting%20Danbi's%20profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9F5F1,100:F5EAF0&height=200&section=header&text=🌸Thank%20you%20for%20visiting%20Danbi's%20profile🌸&fontSize=30&animation=fadeIn&fontAlignY=38&descAlignY=21&descAlign=42)
 
 </div>
   
@@ -81,7 +81,7 @@
 ## ⚙️ Github Stats
 <div align='center'>
   
-  ![danbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSweetRain&show_icons=true&theme=calm)
+  ![danbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSweetRain&show_icons=true&theme=swift)
   [![danbi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSweetRain&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KimSweetRain/KimSweetRain)
   
 </div>
