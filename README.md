@@ -4,12 +4,19 @@
 
 </div>
   
+<div align='right'>
+  
+  [![Hits](https://hits.sh/hits.sh/github.com/KimSweetRain/hits.svg?view=today-total&style=for-the-badge&color=f6f6f6&labelColor=fdf6fd)](https://hits.sh/hits.sh/github.com/KimSweetRain/hits/)
+  
+</div>
+  
 <div align='center'>
   <h4>👋 안녕하세요! </h4>
   <h4>저는 백엔드 개발자를 꿈꾸는 김단비입니다 😃 </h4>
   
   <br>
-  
+</div>
+    
 <div align='center'>
   <a href='https://velog.io/@best1370'>
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Spring&logoColor=white"/>
