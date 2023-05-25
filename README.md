@@ -19,10 +19,13 @@
     
 <div align='center'>
   <a href='https://velog.io/@best1370'>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
   <a href='https://kimdanbi.notion.site/KimDanbi-s-be7c48d725014c89a6f73d19c9fdb564'>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Spring&logoColor=white"/
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/
+  </a>
+    <a href='[https://velog.io/@best137](https://sweet-rain-kim.tistory.com/)0'>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
 </div>
 </div>
@@ -40,10 +43,12 @@
 <div align='center'>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
+  <br>
+  
   <!-- 백엔드 -->
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   
   <br>
   
