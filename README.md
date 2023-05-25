@@ -24,7 +24,7 @@
   <a href='https://kimdanbi.notion.site/KimDanbi-s-be7c48d725014c89a6f73d19c9fdb564'>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/
   </a>
-    <a href='[https://velog.io/@best137](https://sweet-rain-kim.tistory.com/)0'>
+    <a href='https://sweet-rain-kim.tistory.com/'>
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
 </div>
